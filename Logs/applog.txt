@@ -1,0 +1,10 @@
+[LOG] 20/04/2024 19:47:36: Se ha solicitado la lista de libros.
+[LOG] 20/04/2024 20:31:49: Se ha solicitado la lista de libros.
+[LOG] 20/04/2024 20:32:17: Se ha solicitado la lista de libros.
+[LOG] 20/04/2024 20:32:19: Se ha solicitado la lista de libros.
+[LOG] 20/04/2024 20:32:25: Se ha solicitado la lista de libros.
+[LOG] 20/04/2024 20:45:43: Se ha solicitado la lista de libros.
+[LOG] 20/04/2024 20:45:57: Se ha solicitado la lista de libros.
+[LOG] 20/04/2024 20:46:32: Se ha solicitado la lista de libros.
+[LOG] 20/04/2024 20:46:33: Se ha solicitado la lista de libros.
+[LOG] 20/04/2024 20:46:34: Se ha solicitado la lista de libros.
